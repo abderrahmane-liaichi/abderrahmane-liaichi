@@ -1,28 +1,19 @@
-Hi 👋, I'm Amine Ajouihade
-A passionate frontend and Backend developer from morroco
-coding
-
-aminedevaj
-
-🔭 I’m currently working on ** E-Commerce Website Full Stack E-Commerce Website **
-
-🌱 I’m currently learning Node js
-
-👨‍💻 All of my projects are available at https://amineaj.onrender.com
-
-💬 Ask me about React & React Native Laravel C#
-
-📫 How to reach me developerwebaj@gmail.com
-
-Connect with me:
-aminedevaj amineaj amine_8a_
-
-Languages and Tools:
-bootstrap c csharp css3 docker html5 javascript mssql nodejs python react reactnative tailwind typescript vuejs
-
-aminedevaj
-
- aminedevaj
-
-aminedevaj
-
+<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Abderrahmane Liaichi</h1>
+<h3 align="center" class="heading-element" dir="auto">A passionate frontend and Backend developer from morroco</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">🔭 I’m currently working on **  E-Commerce Website  Full Stack E-Commerce Website **</p>
+</li>
+<li>
+<p dir="auto">🌱 I’m currently learning <strong>Node js</strong></p>
+</li>
+<li>
+<p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://amineaj.onrender.com" rel="nofollow">https://amineaj.onrender.com</a></p>
+</li>
+<li>
+<p dir="auto">💬 Ask me about <strong>React &amp; React Native Laravel C#</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:developerwebaj@gmail.com">developerwebaj@gmail.com</a></strong></p>
+</li>
+</ul>
